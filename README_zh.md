@@ -20,6 +20,12 @@
 
 为了在输出格式互不兼容的模型之间实现公平比较，ChartArena 采用了一套**格式无关的评测协议**：将异构的预测结果归一化到两个标准语义空间：数值类图表的三元组视图（triple view）与结构类图表的有向图视图（directed graph view），并使用结构感知的指标进行评分。
 
+<table align="center">
+    <p align="center">
+      <img src="/docs/figures/ChartArena_overview.jpg" width="80%" />
+    </p>
+</table>
+
 ## 目录 <!-- omit in toc -->
 
 - [基准统计](#基准统计)

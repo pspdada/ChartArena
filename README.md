@@ -20,6 +20,12 @@
 
 To enable fair comparison across models that produce mutually incompatible output formats, ChartArena adopts a **format-agnostic evaluation protocol**: heterogeneous predictions are normalized into two canonical semantic spaces: a triple view for numeric charts and a directed graph view for diagrammatic charts, and scored with structure-aware metrics.
 
+<table align="center">
+    <p align="center">
+      <img src="/docs/figures/ChartArena_overview.jpg" width="80%" />
+    </p>
+</table>
+
 ## Contents <!-- omit in toc -->
 
 - [Benchmark Statistics](#benchmark-statistics)
