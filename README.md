@@ -149,7 +149,7 @@ Each line of the jsonl looks like:
 
 ```json
 {
-  "image_path": "images/bar/abc123.png",
+  "img_path": "images/xxx.png",
   "chart_type": "柱状图",
   "img_type": "电子印刷",
   "lang_type": "中文",
@@ -157,7 +157,7 @@ Each line of the jsonl looks like:
 }
 ```
 
-`image_path` is a relative path from the `data/` directory and is used as the unique key throughout the pipeline.
+`img_path` is a relative path from the `data/` directory and is used as the unique key throughout the pipeline.
 
 ### 3. Inference <!-- omit in toc -->
 

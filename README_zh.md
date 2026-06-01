@@ -149,7 +149,7 @@ jsonl 每一行的格式如下：
 
 ```json
 {
-  "image_path": "images/bar/abc123.png",
+  "img_path": "images/xxx.png",
   "chart_type": "柱状图",
   "img_type": "电子印刷",
   "lang_type": "中文",
@@ -157,7 +157,7 @@ jsonl 每一行的格式如下：
 }
 ```
 
-`image_path` 是相对于 `data/` 目录的相对路径，在整个流程中作为唯一主键使用。
+`img_path` 是相对于 `data/` 目录的相对路径，在整个流程中作为唯一主键使用。
 
 ### 3. 推理（Inference） <!-- omit in toc -->
 
