@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="README_zh.md">中文版</a> •
-  <a href="#">Paper</a> •
+  <a href="https://arxiv.org/abs/2606.01348">Paper</a> •
   <a href="https://github.com/pspdada/ChartArena">GitHub Repo</a> •
   <a href="https://huggingface.co/datasets/psp-dada/ChartArena">HuggingFace Dataset</a> •
   <a href="#">ModelScope Dataset</a>

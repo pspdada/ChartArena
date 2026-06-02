@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="README.md">English</a> •
-  <a href="#">论文</a> •
+  <a href="https://arxiv.org/abs/2606.01348">论文</a> •
   <a href="https://github.com/pspdada/ChartArena">GitHub 仓库</a> •
   <a href="https://huggingface.co/datasets/psp-dada/ChartArena">HuggingFace 数据集</a> •
   <a href="#">ModelScope 数据集</a>
