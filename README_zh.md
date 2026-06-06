@@ -7,7 +7,7 @@
   <a href="https://arxiv.org/abs/2606.01348">论文</a> •
   <a href="https://github.com/pspdada/ChartArena">GitHub 仓库</a> •
   <a href="https://huggingface.co/datasets/psp-dada/ChartArena">HuggingFace 数据集</a> •
-  <a href="#">ModelScope 数据集</a>
+  <a href="https://modelscope.cn/datasets/pspdada/ChartArena">ModelScope 数据集</a>
 </p>
 
 ## 新闻 <!-- omit in toc -->
@@ -144,11 +144,7 @@ pip install vllm
 ```
 data/
 ├── ChartArena.jsonl
-└── images/
-    ├── bar/...
-    ├── line/...
-    ├── pie/...
-    └── ...
+└── images/...
 ```
 
 jsonl 每一行的格式如下：

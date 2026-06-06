@@ -7,7 +7,7 @@
   <a href="https://arxiv.org/abs/2606.01348">Paper</a> •
   <a href="https://github.com/pspdada/ChartArena">GitHub Repo</a> •
   <a href="https://huggingface.co/datasets/psp-dada/ChartArena">HuggingFace Dataset</a> •
-  <a href="#">ModelScope Dataset</a>
+  <a href="https://modelscope.cn/datasets/pspdada/ChartArena">ModelScope Dataset</a>
 </p>
 
 ## News <!-- omit in toc -->
@@ -144,11 +144,7 @@ The dataset (jsonl + images) is released as a single archive. Place the files un
 ```
 data/
 ├── ChartArena.jsonl
-└── images/
-    ├── bar/...
-    ├── line/...
-    ├── pie/...
-    └── ...
+└── images/...
 ```
 
 Each line of the jsonl looks like:
