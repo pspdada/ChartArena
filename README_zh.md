@@ -312,7 +312,7 @@ ChartArena/
 ```bibtex
 @article{peng2026chartarena,
   title   = {{ChartArena}: Benchmarking Chart Parsing across Languages, Scenarios, and Formats},
-  author  = {Peng, Shangpin and Li, Gengluo and Wan, Xingyu and Zhang, Chengquan and Feng, Hao and Wu, Binghong and Shen, Huawen and Wang, Weinong and Cai, Ziyi and Tian, Zhuotao and others},
+  author  = {Peng, Shangpin and Li, Gengluo and Wan, Xingyu and Zhang, Chengquan and Feng, Hao and Wu, Binghong and Shen, Huawen and Wang, Weinong and Cai, Ziyi and Tian, Zhuotao and Hu, Han and Ma, Can and Zhou, Yu},
   journal = {arXiv preprint arXiv:2606.01348},
   year    = {2026}
 }
@@ -320,4 +320,4 @@ ChartArena/
 
 ## 许可证
 
-本基准仅供**学术研究使用（research purposes only）**。
+本基准仅供**学术研究使用**。
