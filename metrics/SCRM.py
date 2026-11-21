@@ -362,7 +362,7 @@ def intersection_with_tolerance(
         for elem2 in b:
             if is_float(elem1[-1]) and is_float(elem2[-1]):
                 if (Levenshtein.distance("".join(elem1[:-1]), "".join(elem2[:-1])) <= tol_word) and (
-                    abs(elem1[-1] - elem2[-1]) / (elem2[-1] + 0.000001) <= tol_num
+                    abs(elem1[-1] - elem2[-1]) / (abs(elem2[-1]) + 0.000001) <= tol_num
                 ):
                     c.add(elem1)
             else:
